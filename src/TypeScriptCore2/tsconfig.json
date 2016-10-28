@@ -9,7 +9,6 @@
     "jsx": "react"
   },
   "files": [
-    "./scripts/src/app.ts",
     "./src/components/Hello.tsx",
     "./src/index.tsx"
   ],
