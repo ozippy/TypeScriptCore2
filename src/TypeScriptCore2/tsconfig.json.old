@@ -9,7 +9,7 @@
     "jsx": "react"
   },
   "files": [
-    "./src/components/Hello.tsx",
+    "wwwroot/js/HelloWorld.tsx",
     "./src/index.tsx"
   ],
   "compileOnSave": true
